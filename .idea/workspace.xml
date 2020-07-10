@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10a8c79e-202a-4a96-b176-277d491fb1fa" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yonyou/Guan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testPro.iml" afterDir="false" />
-    </list>
+    <list default="true" id="10a8c79e-202a-4a96-b176-277d491fb1fa" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,8 +51,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="496" />
-    <option name="y" value="227" />
+    <option name="x" value="495" />
+    <option name="y" value="226" />
     <option name="width" value="1750" />
     <option name="height" value="1250" />
   </component>
@@ -130,12 +123,20 @@
       <option name="presentableId" value="Default" />
       <updated>1594200305259</updated>
       <workItem from="1594200308508" duration="1198000" />
-      <workItem from="1594345406204" duration="574000" />
+      <workItem from="1594345406204" duration="1051000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1594346119638</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594346119638</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1772000" />
+    <option name="totallyTimeSpent" value="2249000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
